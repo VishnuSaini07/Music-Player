@@ -25,7 +25,7 @@ let songs = [
   },
   {
     name: 'Dilli De Sardarboys',
-    path: 'assets/musics/Dilli de Sardarboys.mp3',
+    path: 'assets/musics/Dilli De Sardarboys.mp3',
     artist: 'Singhsta & Aparshakti Khurana',
     cover: 'assets/images/dilli de sardarboys.jpg'
   },
