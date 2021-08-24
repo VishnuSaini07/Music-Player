@@ -28,5 +28,11 @@ let songs = [
     path: 'assets/musics/Dilli de Sardarboys.mp3',
     artist: 'Singhsta & Aparshakti Khurana',
     cover: 'assets/images/dilli de sardarboys.jpg'
+  },
+  {
+    name: 'Astronomia',
+    path: 'assets/musics/Vicetone & Tony Igy - Astronomia.mp3',
+    artist: 'Vicetone & Tony lgy',
+    cover: 'assets/images/dilli de sardarboys.jpg'
   }
 ]
