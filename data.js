@@ -32,7 +32,7 @@ let songs = [
   {
     name: 'Astronomia',
     path: 'assets/musics/Vicetone & Tony Igy - Astronomia.mp3',
-    artist: 'Vicetone & Tony lgy',
+    artist: 'Vicetone & Tony Igy',
     cover: 'assets/images/dilli de sardarboys.jpg'
   }
 ]
