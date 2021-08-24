@@ -1,38 +1,50 @@
 let songs = [
   {
-    name: 'Tu Meri',
-    path: 'assets/musics/Bang Bang - Tu Meri.mp3',
-    artist: 'Vishal Dadlani',
-    cover: 'assets/images/Bang Bang.jpg'
+      name: 'song 1',
+      path: 'assets/musics/Song 1.mp3',
+      artist: 'artist 1',
+      cover: 'assets/images/cover 1.png'
   },
   {
-    name: 'Desi Kalakaar',
-    path: 'assets/musics/Desi Kalakaar.mp3',
-    artist: 'Yo Yo Honey Singh',
-    cover: 'assets/images/Desi Kalakaar.jpg'
+      name: 'song 2',
+      path: 'assets/musics/Song 2.mp3',
+      artist: 'artist 2',
+      cover: 'assets/images/cover 2.png'
   },
   {
-    name: 'Ki Samjhaiye',
-    path: 'assets/musics/Ki Samjhaiye.mp3',
-    artist: 'Amrinder Gill',
-    cover: 'assets/images/Amrinder Gill.jpg'
+      name: 'song 3',
+      path: 'assets/musics/Song 3.mp3',
+      artist: 'artist 3',
+      cover: 'assets/images/cover 3.png'
   },
   {
-    name: 'Mirzapur',
-    path: 'assets/musics/Mirzapur Theme Song.mp3',
-    artist: 'Anand Bhaskar',
-    cover: 'assets/images/mirzapur.jpg'
+      name: 'song 4',
+      path: 'assets/musics/Song 4.mp3',
+      artist: 'artist 4',
+      cover: 'assets/images/cover 4.png'
   },
   {
-    name: 'Dilli De Sardarboys',
-    path: 'assets/musics/Dilli De Sardarboys.mp3',
-    artist: 'Singhsta & Aparshakti Khurana',
-    cover: 'assets/images/dilli de sardarboys.jpg'
+      name: 'song 5',
+      path: 'assets/musics/Song 5.mp3',
+      artist: 'artist 5',
+      cover: 'assets/images/cover 5.png'
   },
   {
-    name: 'Astronomia',
-    path: 'assets/musics/Vicetone & Tony Igy - Astronomia.mp3',
-    artist: 'Vicetone & Tony Igy',
-    cover: 'assets/images/dilli de sardarboys.jpg'
+      name: 'song 6',
+      path: 'assets/musics/Song 6.mp3',
+      artist: 'artist 6',
+      cover: 'assets/images/cover 6.png'
+  },
+  {
+      name: 'song 7',
+      path: 'assets/musics/Song 7.mp3',
+      artist: 'artist 7',
+      cover: 'assets/images/cover 7.png'
+  },
+  {
+      name: 'song 8',
+      path: 'assets/musics/Song 8.mp3',
+      artist: 'artist 8',
+      cover: 'assets/images/cover 8.png'
   }
 ]
